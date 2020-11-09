@@ -720,8 +720,9 @@ input, select, textarea {
 
 		}
 		#my-logo {
-			width: 95%;
-			height: 95%;
+			width: 75%;
+			height: 75%;
+			color: azure;
 		}
 /* List */
 
