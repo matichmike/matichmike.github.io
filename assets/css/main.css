@@ -722,6 +722,7 @@ input, select, textarea {
 		#my-logo {
 			width: 75%;
 			height: 95%;
+			filter: white
 		}
 /* List */
 
